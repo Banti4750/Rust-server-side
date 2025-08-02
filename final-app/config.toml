@@ -1,0 +1,11 @@
+[user]
+name = "User"
+email = "user@example.com"
+
+[network]
+timeout = 30
+user_agent = "multitool/1.0.0"
+
+[system]
+shell = "/bin/bash"
+editor = "nano"
